@@ -1,0 +1,241 @@
+"","X","target_name","target_id","outcome_name","outcome_id","episodic","chronic"
+"1",7,"mHSPC ADT plus abiraterone plus docetaxel",925,"Acute cardiac event",869,1,0
+"2",17,"mHSPC ADT plus abiraterone plus docetaxel",925,"Alopecia",853,0,1
+"3",27,"mHSPC ADT plus abiraterone plus docetaxel",925,"Bone marrow suppression",870,1,0
+"4",37,"mHSPC ADT plus abiraterone plus docetaxel",925,"Cerebral event",872,1,0
+"5",47,"mHSPC ADT plus abiraterone plus docetaxel",925,"Chronic heart failure including peripheral oedema",877,0,1
+"6",57,"mHSPC ADT plus abiraterone plus docetaxel",925,"Cognitive disturbance",881,0,1
+"7",67,"mHSPC ADT plus abiraterone plus docetaxel",925,"Diabetes",883,0,1
+"8",77,"mHSPC ADT plus abiraterone plus docetaxel",925,"Electrolyte imbalance",868,1,0
+"9",87,"mHSPC ADT plus abiraterone plus docetaxel",925,"Falls",871,1,0
+"10",97,"mHSPC ADT plus abiraterone plus docetaxel",925,"Fatigue",874,1,0
+"11",107,"mHSPC ADT plus abiraterone plus docetaxel",925,"GI toxicity",888,1,0
+"12",117,"mHSPC ADT plus abiraterone plus docetaxel",925,"Hospitalization",873,1,0
+"13",127,"mHSPC ADT plus abiraterone plus docetaxel",925,"Hypertension",777,0,1
+"14",137,"mHSPC ADT plus abiraterone plus docetaxel",925,"Sepsis",887,1,0
+"15",147,"mHSPC ADT plus abiraterone plus docetaxel",925,"Kidney failure",889,1,0
+"16",157,"mHSPC ADT plus abiraterone plus docetaxel",925,"Neuropathy",813,0,1
+"17",167,"mHSPC ADT plus abiraterone plus docetaxel",925,"Rash",855,1,0
+"18",177,"mHSPC ADT plus abiraterone plus docetaxel",925,"Seizures",890,1,0
+"19",187,"mHSPC ADT plus abiraterone plus docetaxel",925,"Skeletally related events",833,1,0
+"20",197,"mHSPC ADT plus abiraterone plus docetaxel",925,"Thromboembolism",891,1,0
+"21",207,"mHSPC ADT plus abiraterone plus docetaxel",925,"Abnormal hepatic function (episodic)",896,1,0
+"22",217,"mHSPC ADT plus abiraterone plus docetaxel",925,"Abnormal hepatic function (chronic)",917,0,1
+"23",227,"mHSPC ADT plus abiraterone plus docetaxel",925,"Kidney failure (chronic)",866,0,1
+"24",237,"mHSPC ADT plus abiraterone plus docetaxel",925,"Kidney failure (episodic)",857,1,0
+"25",8,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Acute cardiac event",869,1,0
+"26",18,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Alopecia",853,0,1
+"27",28,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Bone marrow suppression",870,1,0
+"28",38,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Cerebral event",872,1,0
+"29",48,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Chronic heart failure including peripheral oedema",877,0,1
+"30",58,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Cognitive disturbance",881,0,1
+"31",68,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Diabetes",883,0,1
+"32",78,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Electrolyte imbalance",868,1,0
+"33",88,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Falls",871,1,0
+"34",98,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Fatigue",874,1,0
+"35",108,"mHSPC ADT plus enzalutamide plus docetaxel",926,"GI toxicity",888,1,0
+"36",118,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Hospitalization",873,1,0
+"37",128,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Hypertension",777,0,1
+"38",138,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Sepsis",887,1,0
+"39",148,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Kidney failure",889,1,0
+"40",158,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Neuropathy",813,0,1
+"41",168,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Rash",855,1,0
+"42",178,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Seizures",890,1,0
+"43",188,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Skeletally related events",833,1,0
+"44",198,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Thromboembolism",891,1,0
+"45",208,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Abnormal hepatic function (episodic)",896,1,0
+"46",218,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Abnormal hepatic function (chronic)",917,0,1
+"47",228,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Kidney failure (chronic)",866,0,1
+"48",238,"mHSPC ADT plus enzalutamide plus docetaxel",926,"Kidney failure (episodic)",857,1,0
+"49",9,"mHSPC ADT plus apalutamide plus docetaxel",927,"Acute cardiac event",869,1,0
+"50",19,"mHSPC ADT plus apalutamide plus docetaxel",927,"Alopecia",853,0,1
+"51",29,"mHSPC ADT plus apalutamide plus docetaxel",927,"Bone marrow suppression",870,1,0
+"52",39,"mHSPC ADT plus apalutamide plus docetaxel",927,"Cerebral event",872,1,0
+"53",49,"mHSPC ADT plus apalutamide plus docetaxel",927,"Chronic heart failure including peripheral oedema",877,0,1
+"54",59,"mHSPC ADT plus apalutamide plus docetaxel",927,"Cognitive disturbance",881,0,1
+"55",69,"mHSPC ADT plus apalutamide plus docetaxel",927,"Diabetes",883,0,1
+"56",79,"mHSPC ADT plus apalutamide plus docetaxel",927,"Electrolyte imbalance",868,1,0
+"57",89,"mHSPC ADT plus apalutamide plus docetaxel",927,"Falls",871,1,0
+"58",99,"mHSPC ADT plus apalutamide plus docetaxel",927,"Fatigue",874,1,0
+"59",109,"mHSPC ADT plus apalutamide plus docetaxel",927,"GI toxicity",888,1,0
+"60",119,"mHSPC ADT plus apalutamide plus docetaxel",927,"Hospitalization",873,1,0
+"61",129,"mHSPC ADT plus apalutamide plus docetaxel",927,"Hypertension",777,0,1
+"62",139,"mHSPC ADT plus apalutamide plus docetaxel",927,"Sepsis",887,1,0
+"63",149,"mHSPC ADT plus apalutamide plus docetaxel",927,"Kidney failure",889,1,0
+"64",159,"mHSPC ADT plus apalutamide plus docetaxel",927,"Neuropathy",813,0,1
+"65",169,"mHSPC ADT plus apalutamide plus docetaxel",927,"Rash",855,1,0
+"66",179,"mHSPC ADT plus apalutamide plus docetaxel",927,"Seizures",890,1,0
+"67",189,"mHSPC ADT plus apalutamide plus docetaxel",927,"Skeletally related events",833,1,0
+"68",199,"mHSPC ADT plus apalutamide plus docetaxel",927,"Thromboembolism",891,1,0
+"69",209,"mHSPC ADT plus apalutamide plus docetaxel",927,"Abnormal hepatic function (episodic)",896,1,0
+"70",219,"mHSPC ADT plus apalutamide plus docetaxel",927,"Abnormal hepatic function (chronic)",917,0,1
+"71",229,"mHSPC ADT plus apalutamide plus docetaxel",927,"Kidney failure (chronic)",866,0,1
+"72",239,"mHSPC ADT plus apalutamide plus docetaxel",927,"Kidney failure (episodic)",857,1,0
+"73",10,"mHSPC ADT plus datolutamide plus docetaxel",928,"Acute cardiac event",869,1,0
+"74",20,"mHSPC ADT plus datolutamide plus docetaxel",928,"Alopecia",853,0,1
+"75",30,"mHSPC ADT plus datolutamide plus docetaxel",928,"Bone marrow suppression",870,1,0
+"76",40,"mHSPC ADT plus datolutamide plus docetaxel",928,"Cerebral event",872,1,0
+"77",50,"mHSPC ADT plus datolutamide plus docetaxel",928,"Chronic heart failure including peripheral oedema",877,0,1
+"78",60,"mHSPC ADT plus datolutamide plus docetaxel",928,"Cognitive disturbance",881,0,1
+"79",70,"mHSPC ADT plus datolutamide plus docetaxel",928,"Diabetes",883,0,1
+"80",80,"mHSPC ADT plus datolutamide plus docetaxel",928,"Electrolyte imbalance",868,1,0
+"81",90,"mHSPC ADT plus datolutamide plus docetaxel",928,"Falls",871,1,0
+"82",100,"mHSPC ADT plus datolutamide plus docetaxel",928,"Fatigue",874,1,0
+"83",110,"mHSPC ADT plus datolutamide plus docetaxel",928,"GI toxicity",888,1,0
+"84",120,"mHSPC ADT plus datolutamide plus docetaxel",928,"Hospitalization",873,1,0
+"85",130,"mHSPC ADT plus datolutamide plus docetaxel",928,"Hypertension",777,0,1
+"86",140,"mHSPC ADT plus datolutamide plus docetaxel",928,"Sepsis",887,1,0
+"87",150,"mHSPC ADT plus datolutamide plus docetaxel",928,"Kidney failure",889,1,0
+"88",160,"mHSPC ADT plus datolutamide plus docetaxel",928,"Neuropathy",813,0,1
+"89",170,"mHSPC ADT plus datolutamide plus docetaxel",928,"Rash",855,1,0
+"90",180,"mHSPC ADT plus datolutamide plus docetaxel",928,"Seizures",890,1,0
+"91",190,"mHSPC ADT plus datolutamide plus docetaxel",928,"Skeletally related events",833,1,0
+"92",200,"mHSPC ADT plus datolutamide plus docetaxel",928,"Thromboembolism",891,1,0
+"93",210,"mHSPC ADT plus datolutamide plus docetaxel",928,"Abnormal hepatic function (episodic)",896,1,0
+"94",220,"mHSPC ADT plus datolutamide plus docetaxel",928,"Abnormal hepatic function (chronic)",917,0,1
+"95",230,"mHSPC ADT plus datolutamide plus docetaxel",928,"Kidney failure (chronic)",866,0,1
+"96",240,"mHSPC ADT plus datolutamide plus docetaxel",928,"Kidney failure (episodic)",857,1,0
+"97",1,"mHSPC ADT only",919,"Acute cardiac event",869,1,0
+"98",11,"mHSPC ADT only",919,"Alopecia",853,0,1
+"99",21,"mHSPC ADT only",919,"Bone marrow suppression",870,1,0
+"100",31,"mHSPC ADT only",919,"Cerebral event",872,1,0
+"101",41,"mHSPC ADT only",919,"Chronic heart failure including peripheral oedema",877,0,1
+"102",51,"mHSPC ADT only",919,"Cognitive disturbance",881,0,1
+"103",61,"mHSPC ADT only",919,"Diabetes",883,0,1
+"104",71,"mHSPC ADT only",919,"Electrolyte imbalance",868,1,0
+"105",81,"mHSPC ADT only",919,"Falls",871,1,0
+"106",91,"mHSPC ADT only",919,"Fatigue",874,1,0
+"107",101,"mHSPC ADT only",919,"GI toxicity",888,1,0
+"108",111,"mHSPC ADT only",919,"Hospitalization",873,1,0
+"109",121,"mHSPC ADT only",919,"Hypertension",777,0,1
+"110",131,"mHSPC ADT only",919,"Sepsis",887,1,0
+"111",141,"mHSPC ADT only",919,"Kidney failure",889,1,0
+"112",151,"mHSPC ADT only",919,"Neuropathy",813,0,1
+"113",161,"mHSPC ADT only",919,"Rash",855,1,0
+"114",171,"mHSPC ADT only",919,"Seizures",890,1,0
+"115",181,"mHSPC ADT only",919,"Skeletally related events",833,1,0
+"116",191,"mHSPC ADT only",919,"Thromboembolism",891,1,0
+"117",201,"mHSPC ADT only",919,"Abnormal hepatic function (episodic)",896,1,0
+"118",211,"mHSPC ADT only",919,"Abnormal hepatic function (chronic)",917,0,1
+"119",221,"mHSPC ADT only",919,"Kidney failure (chronic)",866,0,1
+"120",231,"mHSPC ADT only",919,"Kidney failure (episodic)",857,1,0
+"121",2,"mHSPC ADT plus abiraterone",920,"Acute cardiac event",869,1,0
+"122",12,"mHSPC ADT plus abiraterone",920,"Alopecia",853,0,1
+"123",22,"mHSPC ADT plus abiraterone",920,"Bone marrow suppression",870,1,0
+"124",32,"mHSPC ADT plus abiraterone",920,"Cerebral event",872,1,0
+"125",42,"mHSPC ADT plus abiraterone",920,"Chronic heart failure including peripheral oedema",877,0,1
+"126",52,"mHSPC ADT plus abiraterone",920,"Cognitive disturbance",881,0,1
+"127",62,"mHSPC ADT plus abiraterone",920,"Diabetes",883,0,1
+"128",72,"mHSPC ADT plus abiraterone",920,"Electrolyte imbalance",868,1,0
+"129",82,"mHSPC ADT plus abiraterone",920,"Falls",871,1,0
+"130",92,"mHSPC ADT plus abiraterone",920,"Fatigue",874,1,0
+"131",102,"mHSPC ADT plus abiraterone",920,"GI toxicity",888,1,0
+"132",112,"mHSPC ADT plus abiraterone",920,"Hospitalization",873,1,0
+"133",122,"mHSPC ADT plus abiraterone",920,"Hypertension",777,0,1
+"134",132,"mHSPC ADT plus abiraterone",920,"Sepsis",887,1,0
+"135",142,"mHSPC ADT plus abiraterone",920,"Kidney failure",889,1,0
+"136",152,"mHSPC ADT plus abiraterone",920,"Neuropathy",813,0,1
+"137",162,"mHSPC ADT plus abiraterone",920,"Rash",855,1,0
+"138",172,"mHSPC ADT plus abiraterone",920,"Seizures",890,1,0
+"139",182,"mHSPC ADT plus abiraterone",920,"Skeletally related events",833,1,0
+"140",192,"mHSPC ADT plus abiraterone",920,"Thromboembolism",891,1,0
+"141",202,"mHSPC ADT plus abiraterone",920,"Abnormal hepatic function (episodic)",896,1,0
+"142",212,"mHSPC ADT plus abiraterone",920,"Abnormal hepatic function (chronic)",917,0,1
+"143",222,"mHSPC ADT plus abiraterone",920,"Kidney failure (chronic)",866,0,1
+"144",232,"mHSPC ADT plus abiraterone",920,"Kidney failure (episodic)",857,1,0
+"145",3,"mHSPC ADT plus enzalutamide",921,"Acute cardiac event",869,1,0
+"146",13,"mHSPC ADT plus enzalutamide",921,"Alopecia",853,0,1
+"147",23,"mHSPC ADT plus enzalutamide",921,"Bone marrow suppression",870,1,0
+"148",33,"mHSPC ADT plus enzalutamide",921,"Cerebral event",872,1,0
+"149",43,"mHSPC ADT plus enzalutamide",921,"Chronic heart failure including peripheral oedema",877,0,1
+"150",53,"mHSPC ADT plus enzalutamide",921,"Cognitive disturbance",881,0,1
+"151",63,"mHSPC ADT plus enzalutamide",921,"Diabetes",883,0,1
+"152",73,"mHSPC ADT plus enzalutamide",921,"Electrolyte imbalance",868,1,0
+"153",83,"mHSPC ADT plus enzalutamide",921,"Falls",871,1,0
+"154",93,"mHSPC ADT plus enzalutamide",921,"Fatigue",874,1,0
+"155",103,"mHSPC ADT plus enzalutamide",921,"GI toxicity",888,1,0
+"156",113,"mHSPC ADT plus enzalutamide",921,"Hospitalization",873,1,0
+"157",123,"mHSPC ADT plus enzalutamide",921,"Hypertension",777,0,1
+"158",133,"mHSPC ADT plus enzalutamide",921,"Sepsis",887,1,0
+"159",143,"mHSPC ADT plus enzalutamide",921,"Kidney failure",889,1,0
+"160",153,"mHSPC ADT plus enzalutamide",921,"Neuropathy",813,0,1
+"161",163,"mHSPC ADT plus enzalutamide",921,"Rash",855,1,0
+"162",173,"mHSPC ADT plus enzalutamide",921,"Seizures",890,1,0
+"163",183,"mHSPC ADT plus enzalutamide",921,"Skeletally related events",833,1,0
+"164",193,"mHSPC ADT plus enzalutamide",921,"Thromboembolism",891,1,0
+"165",203,"mHSPC ADT plus enzalutamide",921,"Abnormal hepatic function (episodic)",896,1,0
+"166",213,"mHSPC ADT plus enzalutamide",921,"Abnormal hepatic function (chronic)",917,0,1
+"167",223,"mHSPC ADT plus enzalutamide",921,"Kidney failure (chronic)",866,0,1
+"168",233,"mHSPC ADT plus enzalutamide",921,"Kidney failure (episodic)",857,1,0
+"169",4,"mHSPC ADT plus apalutamide",922,"Acute cardiac event",869,1,0
+"170",14,"mHSPC ADT plus apalutamide",922,"Alopecia",853,0,1
+"171",24,"mHSPC ADT plus apalutamide",922,"Bone marrow suppression",870,1,0
+"172",34,"mHSPC ADT plus apalutamide",922,"Cerebral event",872,1,0
+"173",44,"mHSPC ADT plus apalutamide",922,"Chronic heart failure including peripheral oedema",877,0,1
+"174",54,"mHSPC ADT plus apalutamide",922,"Cognitive disturbance",881,0,1
+"175",64,"mHSPC ADT plus apalutamide",922,"Diabetes",883,0,1
+"176",74,"mHSPC ADT plus apalutamide",922,"Electrolyte imbalance",868,1,0
+"177",84,"mHSPC ADT plus apalutamide",922,"Falls",871,1,0
+"178",94,"mHSPC ADT plus apalutamide",922,"Fatigue",874,1,0
+"179",104,"mHSPC ADT plus apalutamide",922,"GI toxicity",888,1,0
+"180",114,"mHSPC ADT plus apalutamide",922,"Hospitalization",873,1,0
+"181",124,"mHSPC ADT plus apalutamide",922,"Hypertension",777,0,1
+"182",134,"mHSPC ADT plus apalutamide",922,"Sepsis",887,1,0
+"183",144,"mHSPC ADT plus apalutamide",922,"Kidney failure",889,1,0
+"184",154,"mHSPC ADT plus apalutamide",922,"Neuropathy",813,0,1
+"185",164,"mHSPC ADT plus apalutamide",922,"Rash",855,1,0
+"186",174,"mHSPC ADT plus apalutamide",922,"Seizures",890,1,0
+"187",184,"mHSPC ADT plus apalutamide",922,"Skeletally related events",833,1,0
+"188",194,"mHSPC ADT plus apalutamide",922,"Thromboembolism",891,1,0
+"189",204,"mHSPC ADT plus apalutamide",922,"Abnormal hepatic function (episodic)",896,1,0
+"190",214,"mHSPC ADT plus apalutamide",922,"Abnormal hepatic function (chronic)",917,0,1
+"191",224,"mHSPC ADT plus apalutamide",922,"Kidney failure (chronic)",866,0,1
+"192",234,"mHSPC ADT plus apalutamide",922,"Kidney failure (episodic)",857,1,0
+"193",5,"mHSPC ADT plus darolutamide",923,"Acute cardiac event",869,1,0
+"194",15,"mHSPC ADT plus darolutamide",923,"Alopecia",853,0,1
+"195",25,"mHSPC ADT plus darolutamide",923,"Bone marrow suppression",870,1,0
+"196",35,"mHSPC ADT plus darolutamide",923,"Cerebral event",872,1,0
+"197",45,"mHSPC ADT plus darolutamide",923,"Chronic heart failure including peripheral oedema",877,0,1
+"198",55,"mHSPC ADT plus darolutamide",923,"Cognitive disturbance",881,0,1
+"199",65,"mHSPC ADT plus darolutamide",923,"Diabetes",883,0,1
+"200",75,"mHSPC ADT plus darolutamide",923,"Electrolyte imbalance",868,1,0
+"201",85,"mHSPC ADT plus darolutamide",923,"Falls",871,1,0
+"202",95,"mHSPC ADT plus darolutamide",923,"Fatigue",874,1,0
+"203",105,"mHSPC ADT plus darolutamide",923,"GI toxicity",888,1,0
+"204",115,"mHSPC ADT plus darolutamide",923,"Hospitalization",873,1,0
+"205",125,"mHSPC ADT plus darolutamide",923,"Hypertension",777,0,1
+"206",135,"mHSPC ADT plus darolutamide",923,"Sepsis",887,1,0
+"207",145,"mHSPC ADT plus darolutamide",923,"Kidney failure",889,1,0
+"208",155,"mHSPC ADT plus darolutamide",923,"Neuropathy",813,0,1
+"209",165,"mHSPC ADT plus darolutamide",923,"Rash",855,1,0
+"210",175,"mHSPC ADT plus darolutamide",923,"Seizures",890,1,0
+"211",185,"mHSPC ADT plus darolutamide",923,"Skeletally related events",833,1,0
+"212",195,"mHSPC ADT plus darolutamide",923,"Thromboembolism",891,1,0
+"213",205,"mHSPC ADT plus darolutamide",923,"Abnormal hepatic function (episodic)",896,1,0
+"214",215,"mHSPC ADT plus darolutamide",923,"Abnormal hepatic function (chronic)",917,0,1
+"215",225,"mHSPC ADT plus darolutamide",923,"Kidney failure (chronic)",866,0,1
+"216",235,"mHSPC ADT plus darolutamide",923,"Kidney failure (episodic)",857,1,0
+"217",6,"mHSPC ADT plus docetaxel",924,"Acute cardiac event",869,1,0
+"218",16,"mHSPC ADT plus docetaxel",924,"Alopecia",853,0,1
+"219",26,"mHSPC ADT plus docetaxel",924,"Bone marrow suppression",870,1,0
+"220",36,"mHSPC ADT plus docetaxel",924,"Cerebral event",872,1,0
+"221",46,"mHSPC ADT plus docetaxel",924,"Chronic heart failure including peripheral oedema",877,0,1
+"222",56,"mHSPC ADT plus docetaxel",924,"Cognitive disturbance",881,0,1
+"223",66,"mHSPC ADT plus docetaxel",924,"Diabetes",883,0,1
+"224",76,"mHSPC ADT plus docetaxel",924,"Electrolyte imbalance",868,1,0
+"225",86,"mHSPC ADT plus docetaxel",924,"Falls",871,1,0
+"226",96,"mHSPC ADT plus docetaxel",924,"Fatigue",874,1,0
+"227",106,"mHSPC ADT plus docetaxel",924,"GI toxicity",888,1,0
+"228",116,"mHSPC ADT plus docetaxel",924,"Hospitalization",873,1,0
+"229",126,"mHSPC ADT plus docetaxel",924,"Hypertension",777,0,1
+"230",136,"mHSPC ADT plus docetaxel",924,"Sepsis",887,1,0
+"231",146,"mHSPC ADT plus docetaxel",924,"Kidney failure",889,1,0
+"232",156,"mHSPC ADT plus docetaxel",924,"Neuropathy",813,0,1
+"233",166,"mHSPC ADT plus docetaxel",924,"Rash",855,1,0
+"234",176,"mHSPC ADT plus docetaxel",924,"Seizures",890,1,0
+"235",186,"mHSPC ADT plus docetaxel",924,"Skeletally related events",833,1,0
+"236",196,"mHSPC ADT plus docetaxel",924,"Thromboembolism",891,1,0
+"237",206,"mHSPC ADT plus docetaxel",924,"Abnormal hepatic function (episodic)",896,1,0
+"238",216,"mHSPC ADT plus docetaxel",924,"Abnormal hepatic function (chronic)",917,0,1
+"239",226,"mHSPC ADT plus docetaxel",924,"Kidney failure (chronic)",866,0,1
+"240",236,"mHSPC ADT plus docetaxel",924,"Kidney failure (episodic)",857,1,0

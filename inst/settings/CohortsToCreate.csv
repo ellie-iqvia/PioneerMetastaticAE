@@ -1,0 +1,35 @@
+cohort_id,cohort_name
+869,Acute cardiac event
+853,Alopecia
+870,Bone marrow suppression
+872,Cerebral event
+877,Chronic heart failure including peripheral oedema
+881,Cognitive disturbance
+883,Diabetes
+868,Electrolyte imbalance
+871,Falls
+874,Fatigue
+888,GI toxicity
+873,Hospitalization
+777,Hypertension
+887,Sepsis
+889,Kidney failure
+813,Neuropathy
+855,Rash
+890,Seizures
+833,Skeletally related events
+891,Thromboembolism
+896,Abnormal hepatic function (episodic)
+917,Abnormal hepatic function (chronic)
+866,Kidney failure (chronic)
+857,Kidney failure (episodic)
+919,mHSPC ADT only
+920,mHSPC ADT plus abiraterone
+921,mHSPC ADT plus enzalutamide
+922,mHSPC ADT plus apalutamide
+923,mHSPC ADT plus darolutamide
+924,mHSPC ADT plus docetaxel
+925,mHSPC ADT plus abiraterone plus docetaxel
+926,mHSPC ADT plus enzalutamide plus docetaxel
+927,mHSPC ADT plus apalutamide plus docetaxel
+928,mHSPC ADT plus datolutamide plus docetaxel
